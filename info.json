@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "006574340606e21a4c8669306098e313e2fd9596",
+    "author": "Rob Briers <r.briers@napier.ac.uk>",
+    "time": "2020-12-08 10:56:18",
+    "files": 3,
+    "merge": false,
+    "message": "minor update\n"
+  },
+  "remote": "https://github.com/ropensci/cde",
+  "pkg": "cde"
+}
