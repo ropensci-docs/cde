@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6a1f466a235761b71e87cdec635a82dc837dd51e",
+    "author": "Rob Briers <r.briers@napier.ac.uk>",
+    "time": "2022-05-03 20:18:28",
+    "files": 6,
+    "merge": false,
+    "message": "updating index text and fixing plot issues with objectives created by column name change\n"
+  },
+  "repo": "https://github.com/ropensci/cde",
+  "pkg": "cde"
+}
