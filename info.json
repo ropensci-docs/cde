@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "7381b14e66c0f4d0158b8a31990abd5f1c1981d1",
+    "author": "Rob Briers <r.briers@napier.ac.uk>",
+    "time": "2024-10-14 10:38:15",
+    "files": 1,
+    "merge": false,
+    "message": "Increment version number to 0.4.1.9004\n"
+  },
+  "repo": "https://github.com/ropensci/cde",
+  "pkg": "cde"
+}

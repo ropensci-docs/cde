@@ -1,0 +1,10 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  cde-output-reference: cde-output-reference.html
+  cde: cde.html
+last_built: 2024-10-14T11:14Z
+urls:
+  reference: https://docs.ropensci.org/cde/reference
+  article: https://docs.ropensci.org/cde/articles
