@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e4f5b508559c5919351edeb032645fd13a20096e",
+    "author": "Briers <40000865@napier.ac.uk>",
+    "time": "2025-03-31T15:54:56Z",
+    "files": 2,
+    "merge": false,
+    "message": "upating codecov on readme\n"
+  },
+  "repo": "https://github.com/ropensci/cde",
+  "pkg": "cde",
+  "time": "2026-08-30T07:21:14Z"
+}
